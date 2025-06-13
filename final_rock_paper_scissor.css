@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(24, 23, 23);
+    height: 100vh;
+    color: antiquewhite;
+    font-family: Arial;
+    margin-left: 20px;
+}
+.css-image-size {
+    height: 60px;
+    width: 60px;
+    border-style: solid;
+    border-color: white;
+    padding: 15px;
+    border-radius: 60px;
+    cursor: pointer;
+    margin-right: 10px;
+}
+.css-image-butn {
+    background-color: transparent;
+}
+.css-result-size {
+    font-size: 20px;
+    font-weight: bold;
+}
+.css-moves{
+    margin-top: 50px;
+    height: 40px;
+    width: 40px;
+}
+.css-reset-button{
+    font-size: 14px;
+    padding: 6px 15px;
+    border: none;
+    border-radius: 5px;
+}
